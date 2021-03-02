@@ -1,0 +1,30 @@
+*{
+    background-color: #f5fffb;
+    text-align: center;
+}
+
+body{
+    margin-top: 15%;
+    
+}
+
+h1{
+    color: #437070;
+    font-family: 'Aclonica', sans-serif;
+}
+
+.forms{
+    font-family: 'Aclonica', sans-serif;
+}
+
+.buttons{
+    font-family: 'Cutive Mono', monospace;
+
+}
+
+.b{
+    background-color: #f5fffb;
+    color: #437070;
+    width: 90px;
+    height: 90px;
+}
